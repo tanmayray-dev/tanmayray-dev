@@ -1,41 +1,38 @@
-# 👋 Hey, I'm DEV MODE!
+# 👋 Hey, I'm Tanmay Ray!
 
-### 💻 PHP Developer | Web Developer | Tech Enthusiast
+### 💻 PHP Developer | Web Developer | DEV MODE ⚡
 
 Welcome to my GitHub profile! 🚀
 
-I'm passionate about building web applications, integrating APIs, improving security, and learning new technologies.
+I'm passionate about web development, building dynamic applications, API integrations, and learning modern technologies.
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Skills
 
-- **Languages:** PHP, JavaScript, HTML5, CSS3
-- **Database:** MySQL, MariaDB
-- **Web Development:** Responsive UI, Backend Development, REST APIs
-- **Tools:** Git, GitHub, Linux, cPanel
-- **Interests:** Web Security, Automation, Server Management
+- 💻 **Languages:** PHP, JavaScript, HTML5, CSS3
+- 🗄️ **Databases:** MySQL, MariaDB
+- 🔌 **Development:** REST APIs, Backend Development
+- 🖥️ **Tools:** Git, GitHub, Linux, cPanel
+- 🔐 **Interests:** Web Security, Automation, Server Management
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Building
 
-- 🌐 Developing dynamic web applications.
-- 🔌 Integrating APIs and payment systems.
-- 🔐 Learning secure coding and web application security.
-- ⚡ Improving performance and automation.
+- 🌐 Web applications and useful online tools
+- 🔌 API integrations and payment systems
+- ⚡ Automation and performance improvements
+- 🎨 Responsive and user-friendly interfaces
 
 ## 🎯 My Goals
 
-- Build useful and reliable software.
-- Improve my programming skills.
+- Build reliable and secure applications.
+- Improve my programming skills every day.
 - Contribute to open-source projects.
-- Connect with other developers.
+- Connect with developers around the world.
 
-## 📊 My Developer Journey
+## ⚡ My Motto
 
-I'm continuously learning, experimenting, and building projects. Every project is an opportunity to improve.
+**Code. Build. Learn. Repeat.**
 
-### ⚡ Code. Build. Learn. Repeat.
-
-**Welcome to DEV MODE!** 🖤💙
-
+🖤 Welcome to DEV MODE! 💙
 <!--
 **tanmayray-dev/tanmayray-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
